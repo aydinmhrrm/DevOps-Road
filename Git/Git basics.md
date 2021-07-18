@@ -1,5 +1,7 @@
 # Git basics
 
+![1a.jpeg](./Images/1a.jpeg)
+
 - `Upload github files from local to Github`
 - Open your terminal
 - Go to file destination
