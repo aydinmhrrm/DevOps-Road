@@ -8,7 +8,7 @@
 - Yaml'da cfn-lite yaziyoruz
 -Gerekli bilgileri dolduruyoruz.
 
-![1b.png](./1b.png)
+![1b.png](./Images/1b.png)
 
 - Discription'a aciklama yazabiliriz. Kullanan icinde ne oldugunu gorebilsin.
 - Ayrica discrption'in adini degistirebiliriz.
@@ -16,7 +16,7 @@
 - Her alani degil ama ilgili kisimlari dolduruyoruz.
 - ImageID kismini Ec2 dan bakip kopyaliyoruz.
 
-![1c.png](./1c.png)
+![1c.png](./Images/1c.png)
 
 - InstanceType:t2.micro yaziyoruz.
 - KeyName pem dosyamizin ismini yaziyoruz.
