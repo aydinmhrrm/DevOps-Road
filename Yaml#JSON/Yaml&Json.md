@@ -4,7 +4,7 @@
 - Convert to Json yazip, tikliyoruz.
 
 
-# Yaml& Json ile instance ayagi kaldirma
+# Yaml& Json ile instance ayaga kaldirma
 - Yaml'da cfn-lite yaziyoruz
 -Gerekli bilgileri dolduruyoruz.
 
@@ -20,7 +20,7 @@
 
 - InstanceType:t2.micro yaziyoruz.
 - KeyName pem dosyamizin ismini yaziyoruz.
-- SecurityGroups yazan yere 1b dekini yaziyoruz.
+- SecurityGroups yazan yere 1c dekini yaziyoruz.
 - Tag kismina ne advermek istiyorsan onu yaziyorsun.
 
 ```
